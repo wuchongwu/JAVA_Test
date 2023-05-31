@@ -28,5 +28,6 @@ public class Test11 {
             list.add(s);
         }
         newsLeveSql.append(" ) ");
+        System.out.println("修改");
     }
 }
